@@ -1,0 +1,11 @@
+{
+  "name": "AapatMitra",
+  "description": "Smart emergency ambulance dispatch, live Ola/Uber-style route tracking, Angel contact AI alerts, hospital pre-admission form, insurance verification and multilingual support.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
